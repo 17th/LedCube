@@ -1,0 +1,22 @@
+char x = 1, y = 1, z = 1;
+		
+		char c_x = 6, c_y = 3, c_z = 4;
+			
+		while (1){
+			if(!(c_x>1 & c_x<7))
+				x = 1-x;
+			x?c_x++:c_x--;
+			move_x(x, 1);
+			
+			if(!(c_y>0 & c_y<6))
+				y = 1-y;
+			y?c_y++:c_y--;
+			move_y(y, 1);
+			
+			if(!(c_z>0 & c_z<6))
+				z = 1-z;
+			z?c_z++:c_z--;
+			move_z(z, 1);
+			
+			_delay_ms(100);
+		}

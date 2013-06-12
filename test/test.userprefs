@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Scripts\General Scripts\Menu.cs">
+    <Files>
+      <File FileName="Assets\Standard Assets\Scripts\General Scripts\StartScript.cs" Line="174" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\General Scripts\Menu.cs" Line="180" Column="83" />
+      <File FileName="Assets\Standard Assets\Scripts\General Scripts\uart.cs" Line="29" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

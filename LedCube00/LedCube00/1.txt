@@ -1,0 +1,1 @@
+avrdude.exe -c usbasp -p m16 -P usb -U flash:w:"$(OutputDirectory)\$(MSBuildProjectName).hex":i
